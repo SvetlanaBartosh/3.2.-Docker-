@@ -1,1 +1,1 @@
-![docker 2.jpg](..%2F%D0%B4%D1%83%D1%80%D0%B0%2Fdocker%202.jpg)
+![docker 2](https://github.com/user-attachments/assets/79b53a6f-b66d-41f3-ad6a-9734b1c758ed)
